@@ -34,7 +34,7 @@ p{
 	background-color: darkgray;
 	border: 3px solid black;
 	margin-bottom: 10px;
-	height: 150px;
+	height: 250px;
 }
 @media (min-width:992px ){
 	.div1,.div2,.div3{
